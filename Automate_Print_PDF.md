@@ -1,6 +1,6 @@
 # script_tricks_w_feli
 
-*Automate PDF printing*
+***Automate PDF printing***
 
 Today, we are going to look into automating print files in PowerShell or Cygwin:
 
